@@ -1,0 +1,5 @@
+numpy
+numba
+matplotlib
+scipy
+# укажите версию cuda, если это критично
